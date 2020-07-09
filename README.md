@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **iJKTen/iJKTen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm currently working on [Punions client](https://github.com/iJKTen/punions-client) which is a multi-player game in React. [Punions Server](https://github.com/iJKTen/punions-server) is the backend code running on AWS lambdas as a NODEJS REST client and web sockets.
