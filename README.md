@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a software engineer who is passionate about creating technology to elevate people and building community. I enjoy working with JavaScript on the client (ReactJS) and on the server (NodeJS).
 
-## Find men around the web 🌎
+## Find me around the web 🌎
 
 - Learning in public at my [Blog](https://ijk.ghost.io)
 
