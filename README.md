@@ -1,4 +1,4 @@
-# Hi, I'm Jai 👋 👨🏽‍💻
+# Hi, I'm Jai 👋
 
 <!--
 **iJKTen/iJKTen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +21,6 @@ I'm a software engineer who is passionate about creating technology to elevate p
 
 - Learning in public at my [Blog](https://ijk.ghost.io)
 
-## Currently working on
+## Currently working on 👨🏽‍💻
 
 - I'm currently working on [Punions client](https://github.com/iJKTen/punions-client) which is a multi-player game in React. [Punions Server](https://github.com/iJKTen/punions-server) is the backend code is in NodeJS running on AWS lambdas accessiable via REST end points and web sockets.
